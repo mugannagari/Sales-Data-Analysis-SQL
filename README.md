@@ -27,9 +27,9 @@ Sale Analyzed through different cities , customer segments and Category.
 
 
 ## Sales Dashboard Preview
+https://github.com/mugannagari/Sales-Data-Analysis-SQL/blob/3ae1c019bb4308b915480f4326e255e0e5498f74/Docs/Sales_Analysis_Dashboard.png
 
-
-
+## Category Details Preview
 
 ## Conclusion
 
