@@ -32,7 +32,10 @@ https://github.com/mugannagari/Sales-Data-Analysis-SQL/blob/3ae1c019bb4308b91548
 ## Drill Through Catgetory Preview
 https://github.com/mugannagari/Sales-Data-Analysis-SQL/blob/4b91ebd7f8a84622f616af7df070af7661c7dfe2/Docs/Drill_through_category.png
 
-## Summary
+## Summary Preview
+https://github.com/mugannagari/Sales-Data-Analysis-SQL/blob/d572957d68888c8f2c35347b04b7ff26e5f68843/Docs/Tooltip.png
+
+##  Cities ToolTip Preview
 
 
 
